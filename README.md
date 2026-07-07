@@ -1,4 +1,5 @@
 # Plant Shopping
+e-plantShopping
 The Paradise Nursery shopping cart features will include:
 
     A Landing page with a button linking to the product listing page
